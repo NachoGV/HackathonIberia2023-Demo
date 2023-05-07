@@ -8,6 +8,7 @@ Babel==2.12.1
 backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
+branca==0.6.0
 certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==3.1.0
@@ -26,6 +27,7 @@ esda==2.4.3
 executing==1.2.0
 fastjsonschema==2.16.3
 Fiona==1.9.3
+folium==0.14.0
 fonttools==4.39.3
 fqdn==1.5.1
 geopandas==0.13.0
@@ -51,6 +53,8 @@ jupyterlab-widgets==3.0.7
 jupyterlab_server==2.22.1
 kiwisolver==1.4.4
 libpysal==4.7.0
+lxml==4.9.2
+mapclassify==2.5.0
 MarkupSafe==2.1.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.6

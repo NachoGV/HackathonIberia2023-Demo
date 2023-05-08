@@ -3,3 +3,6 @@
 
 # VSCode
 .vscode
+
+# Output folder as it is to heavy for GitHub
+./Data/Output

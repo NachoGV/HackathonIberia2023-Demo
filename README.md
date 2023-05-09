@@ -1,5 +1,11 @@
 # Demo para el Hackathon Iberia 2023
 
+## Equipo
+Equipo "Team 33" conformado por
+* Antonio Castañares Rodríguez
+* Ignacio Gómez Valverde
+* Francisco Moraleda Moreno
+
 ## Contenido
 * Data/ - Carpeta con los datos utilizados en el notebook
     * energia/ | población/ | poly_canarias/ | poly_peninbal/ - Datos de entrada
